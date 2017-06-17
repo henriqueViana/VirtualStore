@@ -3,11 +3,11 @@
 
 <p>Para esse estudo foram utilizadas:</p>
 
-<div>
-    <strong>HTML</strong>
-    <strong>CSS</strong>
-    <strong>Sass</strong>
-    <strong>Javascript</strong>
-    <strong>React</strong>
-    <strong>Redux</strong>
-</div>
+<ul>
+    <li><strong>HTML</strong></li>
+    <li><strong>CSS</strong></li>
+    <li><strong>Sass</strong></li>
+    <li><strong>Javascript</strong></li>
+    <li><strong>React</strong></li>
+    <li><strong>Redux</strong></li>
+</ul>
